@@ -548,7 +548,7 @@ int characterPosition(char c)
 
 
 //---------------------------------------------------------------
-//This method is used to check if a word satisfys the constraints gotted till now
+//This method is used to check if a word satisfys the constraints constraints obtained so far
 int filterWord(char* word, Slot *filterFEPosition)
 {
 	int valid = 1; //we consider the word valid
