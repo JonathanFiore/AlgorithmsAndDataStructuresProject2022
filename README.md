@@ -52,7 +52,7 @@ All the batteries test the **Execution Time** and **Space occupied** during Exec
 ### Description: 
 <p>The purpose of this project is to create a system whose main goal is to check the correspondence between the letters of two words with the same length<p>
 
-<p>There is a group of permissible words, a specific one in this set of words is chosen at the beginning of the program, we will call di word "reference word"<p>
+<p>There is a group of permissible words, a specific one in this set of words is chosen at the beginning of the program, we will call this word "reference word"<p>
 
 <p>There are 'n' comparisons between the reference word and 'n' words given in input; each comparisons produces constraints and allow to create a group of filtered words which is a subgroup of the permissible words.
 The filtered group contains all the words which follow the constraints learned during the comparisons<p>
